@@ -1,0 +1,36 @@
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\bin\Debug\yazılım yapımı.exe.config
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\bin\Debug\yazılım yapımı.exe
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\bin\Debug\yazılım yapımı.pdb
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.csprojAssemblyReference.cache
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.Form1.resources
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.IslemUserControl.resources
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.KelimeUserControl.resources
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.Properties.Resources.resources
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.csproj.GenerateResource.cache
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.exe
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.pdb
+C:\Users\Büşra\source\repos\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.KurallarUserControl.resources
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.csprojAssemblyReference.cache
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.Form1.resources
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.IslemUserControl.resources
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.KelimeUserControl.resources
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.KurallarUserControl.resources
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.Properties.Resources.resources
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.csproj.GenerateResource.cache
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.exe
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.pdb
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\bin\Debug\yazılım yapımı.exe.config
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\bin\Debug\yazılım yapımı.exe
+C:\Users\Büşra\Desktop\Dersler\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\bin\Debug\yazılım yapımı.pdb
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\bin\Debug\yazılım yapımı.exe.config
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\bin\Debug\yazılım yapımı.exe
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\bin\Debug\yazılım yapımı.pdb
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.csprojAssemblyReference.cache
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.Form1.resources
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.IslemUserControl.resources
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.KelimeUserControl.resources
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.KurallarUserControl.resources
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım_yapımı.Properties.Resources.resources
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.csproj.GenerateResource.cache
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.exe
+C:\Users\Büşra\Desktop\Yazılım Yapımı\yazılım yapımı\yazılım yapımı\obj\Debug\yazılım yapımı.pdb
